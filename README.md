@@ -1,6 +1,7 @@
 # Product Scraper
 
 A simple web scraper built using FastAPI that allows users to scrape product data.
+[https://whimsical.com/scraper-UpxADUJS7LnjbcBeMEn7H](Link to design)
 
 ## Setup Instructions
 
