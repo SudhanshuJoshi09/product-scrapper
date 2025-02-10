@@ -1,7 +1,7 @@
 # Product Scraper
 
 A simple web scraper built using FastAPI that allows users to scrape product data.
-[https://whimsical.com/scraper-UpxADUJS7LnjbcBeMEn7H](Link to design)
+[Link to design](https://whimsical.com/scraper-UpxADUJS7LnjbcBeMEn7H)
 
 ## Setup Instructions
 
@@ -104,8 +104,3 @@ curl --location 'http://127.0.0.1:8000/scrape' \
       "page_count": 12
 }'
 ```
-
-## License
-This project is licensed under the MIT License.
-
-
